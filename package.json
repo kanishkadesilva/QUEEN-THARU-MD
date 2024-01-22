@@ -6,10 +6,10 @@
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name Vajira",
-                "stop": "pm2 stop Vajira"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name THARU",
+                "stop": "pm2 stop THARU"
                 },
-               "author": "SamPandey001",
+               "author": "kanishkadesilva",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
