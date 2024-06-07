@@ -15,3 +15,4 @@
     <img src="https://telegra.ph/file/9abd922791312fab980ad.jpg"  width="400px">
 </a>
 <hr>
+https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html
